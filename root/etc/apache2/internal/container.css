@@ -17,3 +17,10 @@ body{
 
 
 }         
+
+.monitor {
+    position: absolute;
+    width: 200px;
+    bottom: 35%;
+    right: 800px;
+}
